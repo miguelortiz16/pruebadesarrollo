@@ -1,0 +1,18 @@
+PROYECTO DE ANGULAR 
+1.Entramos en la carpeta de landing en el cmd que el el proyecto de angular.
+2.  Ejecutamos el comando npm install para descargar las dependencias.
+3. ejecutamos el comando npm install --save rxjs-compat
+4. Ejecutamos el comando ng serve.
+5. Entramos en el navegador http://localhost:4200/.
+
+
+PROYECTO DE NODE
+1 Ejecutamos el mongod.
+2 Ejecutamos el robo 3t.
+3 Crear una base de datos llamada prueba.
+4 crear una collection usuarios.
+5 Entramos a la carpeta servidor en el cmd.
+6 Ejecutamos el comando npm start.
+7 Entramos en el navegador http://localhost:3700/api/usuarios.
+
+
